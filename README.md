@@ -208,4 +208,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - ABC synthesis tool team at UC Berkeley
 - PyTorch Geometric development team
 - Circuit benchmark providers
->>>>>>> ee15a6f (Initial commit)
